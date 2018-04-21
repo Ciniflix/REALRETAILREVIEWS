@@ -1,5 +1,10 @@
-# Play Framework Product Catalogue
+# Play Framework Product Catalogue with Login and access control
 
+## Public site
+### View products
+### Login
 
-## Add and edit products
-## 1 to many database (Category 1 -- m Product)
+## Admin Section
+### require an admin user to be logged in
+### Add and edit products
+###
