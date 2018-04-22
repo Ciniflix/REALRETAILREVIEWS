@@ -14,4 +14,4 @@
 - Show  Login or User / Logout link (main template)
 - All controller action methods get logged in user and pass as a parameter to views
 
-** See application homepage and comments for more **
+**See application homepage and comments for more**
